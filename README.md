@@ -9,5 +9,4 @@ Shop: Browse through a selection of products and services dedicated to supportin
 Splash Screen: Engage visitors from the moment they land on the site with an eye-catching splash screen, conveying the mission and urgency of the Zero Hunger initiative.
 Content Page: Explore comprehensive information, stories, and resources related to hunger alleviation. The content page serves as a hub for education and awareness-building.
 Feedback Form
-Gallary 
-
+Gallary
